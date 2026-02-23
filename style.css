@@ -12,3 +12,17 @@ h1{
     font-size: larger;
     
 }
+
+#h1{
+    background-size: auto;
+}
+#h1{
+    background-repeat: no-repeat;
+}
+#h1 {
+    position: relative;
+}
+
+#h1{
+    visibility: inherit;
+}
