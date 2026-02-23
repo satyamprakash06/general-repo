@@ -22,3 +22,7 @@ h1{
 #h1 {
     position: relative;
 }
+
+#h1{
+    visibility: inherit;
+}
